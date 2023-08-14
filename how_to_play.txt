@@ -1,0 +1,4 @@
+Right paddle controls are Up and Down arrow keys.
+Left paddle controls are W and S keys.
+
+The game never ends.
